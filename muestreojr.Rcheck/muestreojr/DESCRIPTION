@@ -1,0 +1,13 @@
+Package: muestreojr
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Mauricio Javier Rojas Campuzano
+Maintainer: The package maintainer <maujroja@espol.edu.ec>
+Description: Paquete desarrollado para calcular tamaños muestrales óptimos.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2020-12-07 22:53:54 UTC; javierrojas
+Built: R 4.0.2; ; 2020-12-07 22:54:00 UTC; unix
